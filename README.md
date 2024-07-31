@@ -1,12 +1,17 @@
-## Hi there 👋
+## Hi there 👋, my name is Larissa Moura
 
+### :woman: - About me...
+
+I am originally from Brazil, but living in USA - South Florida. I've served as the owner and operator of a cleaning business for the last 9 years. With strong organizational and multi-tasking skills, as well superior time and resource management capabilities. Dedicated and energetic. Realible and responsible with positive attitude. Recently, I got my Data Analysis certificate and a financial license, those are my career passions. 
+
+- 🔭 I’m currently working on a a tableau project to elevate my data vizualizations skills.
 <!--
 **larissarmourap/Larissarmourap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a a tableau project to elevate my data vizualizations skills.
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
