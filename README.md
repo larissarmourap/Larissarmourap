@@ -3,7 +3,7 @@
 ## :woman: About me...
 
 I am originally from Brazil, but living in USA - South Florida. Recently. I got my Data Analysis certificate and a financial license. I am interested in all things Python, Tableau, Financial planning & Data Analysis.  
-I've served as the owner and operator of a cleaning business for the last 9 years. With strong organizational and multi-tasking skills, as well superior time and resource management capabilities. Dedicated and energetic. Realible and responsible with positive attitude.
+I've served as the owner and operator of a cleaning business for the last 9 years. With strong organizational and multi-tasking skills, as well superior time and resource management capabilities. Dedicated and energetic. Reliable and responsible with positive attitude.
 
 - 🔭 I’m currently working on a a tableau project to elevate my data vizualizations skills.
 <!--
