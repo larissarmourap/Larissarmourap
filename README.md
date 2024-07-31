@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Larissa Moura
 
-### :woman: - About me...
+## :woman: About me...
 
 I am originally from Brazil, but living in USA - South Florida. I've served as the owner and operator of a cleaning business for the last 9 years. With strong organizational and multi-tasking skills, as well superior time and resource management capabilities. Dedicated and energetic. Realible and responsible with positive attitude. Recently, I got my Data Analysis certificate and a financial license, those are my career passions. 
 
